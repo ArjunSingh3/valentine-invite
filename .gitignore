@@ -8,3 +8,13 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Node (just in case later)
+node_modules/
+
+# Local build / temp
+dist/
