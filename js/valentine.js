@@ -104,7 +104,7 @@ yes.onclick = () => {
     navigator.vibrate?.([30, 40, 30]);
     document.querySelector(".container").innerHTML =
         `<h1>YAAAY 💖 I LOVE YOU ${to.toUpperCase()}!</h1>
-    <img src="media/yes.gif" width="260">`;
+  <img src="https://media2.giphy.com/media/h20IwOYYJgCMbj4uaD/giphy.gif" width="260">`;
 };
 
 // ------------------------------
